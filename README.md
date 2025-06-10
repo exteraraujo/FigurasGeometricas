@@ -53,5 +53,5 @@ Git & GitHub
 
 🙋‍♀️ Sobre mim
 
-[Desenvolvido por Ester Araújo, estudante de Engenharia de Software apaixonada por tecnologia e pela preservação do meio ambiente.
-Conecte-se comigo no Linkedin! ](https://www.linkedin.com/in/ester-ara%C3%BAjo-853447236/)
+Desenvolvido por Ester Araújo, estudante de Engenharia de Software apaixonada por tecnologia e pela preservação do meio ambiente.
+Conecte-se comigo no Linkedin! [(https://www.linkedin.com/in/ester-ara%C3%BAjo-853447236/)]
