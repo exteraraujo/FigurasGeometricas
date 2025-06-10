@@ -32,10 +32,15 @@ FigurasGeometricas/
 💡 Exemplos de Saída (Console)
 
 Retângulo com base = 5.0 e altura = 3.0
+
 Área da figura: 15.00
+
 Triângulo com base = 4.0 e altura = 6.0
+
 Área da figura: 12.00
+
 Círculo com raio = 2.5
+
 Área da figura: 19.63
 
 🛠️ Tecnologias
